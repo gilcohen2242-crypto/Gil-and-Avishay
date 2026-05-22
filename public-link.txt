@@ -1,0 +1,10 @@
+Website name:
+Gil Cohen and Avhishay Aiche
+
+GitHub repository:
+https://github.com/gilcohen2242-crypto/Gil-and-Avishay
+
+GitHub Pages link:
+https://gilcohen2242-crypto.github.io/Gil-and-Avishay/
+
+Note: GitHub Pages becomes available after the repository is published to the main branch and Pages finishes deploying.
